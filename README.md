@@ -67,3 +67,6 @@ METHODOLOGY AND WORKFLOW:
 4. Model Training
 5. Model Evaluation
 6. Decision Tree Visualization
+
+##OUTPUT OF THE TASK:
+<img width="1892" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e72ca240-b225-4dbc-8a23-1bdc57480cab" />
